@@ -1,0 +1,11 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#f5f0e8"/>
+  <rect x="140" y="160" width="140" height="100" rx="12" fill="#d4c9b0"/>
+  <path d="M280 190 Q310 200 280 220" stroke="#b8a990" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <rect x="155" y="260" width="110" height="12" rx="6" fill="#b8a990"/>
+  <rect x="165" y="272" width="90" height="8" rx="4" fill="#a89880"/>
+  <path d="M170 160 Q175 130 180 160" stroke="#8fad88" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M195 160 Q200 120 205 160" stroke="#8fad88" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M220 160 Q225 130 230 160" stroke="#8fad88" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <text x="200" y="330" text-anchor="middle" font-family="serif" font-size="16" fill="#a89880">Chai Heritage</text>
+</svg>
